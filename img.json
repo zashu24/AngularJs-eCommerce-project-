@@ -1,0 +1,104 @@
+ [
+    {
+      "name": "Age Re-perfect body",
+      "image": "images/age.jpg",
+      "price": "$15",
+      "description":"Discover the secret for bold, metallic color with a luminous finish.",
+      "category":"skincare"
+    },
+   {
+     "name": "Youth Code DayCream",
+     "image": "images/youth2_1.jpg",
+     "price": "$35",
+     "description": "Our 1st Daily Volumizing Skincare.Restores skin's natural fullness for a more youthful look.See improvement on cheekbones, under-eye and wrinkles.",
+     "category":"skincare"
+   },
+    {
+      "name": "eyeshadow",
+      "image": "images/eyeshadow.jpg",
+      "price": "$7.99",
+      "description":"The Sophisticated Blended Eye Made Easy. The most luxurious blending of colors to create the most sophisticated eye looks.",
+      "category":"makeup"
+    },
+    {
+      "name": "truematch",
+      "image": "images/truematch.jpg",
+      "price": "$12.99",
+      "description":"From the True Match family, comes a new Instant Shine Eraser Powder in a unique mineral formula that offers up to 16 hours of fresh, true color without oil breakthrough for a flawless look that lasts all day. ",
+      "category":"skincare"
+
+    },
+   {
+     "name": "brightshadow",
+     "image": "images/brightshadow.jpg",
+     "price": "$10",
+     "description":"Discover three statement collections to inspire endless must-have looks. Colour Riche Eye Shadow offers expertly coordinated compacts with shades to be worn alone for simple looks or all together for complex looks.",
+     "category":"makeup"
+   },
+   {
+     "name": "eyemakeupremover",
+     "image": "images/eyemakeupremover.jpg",
+     "price": "$15",
+     "description":"New RevitaLift � Radiant Smoothing Cream Cleanser is specially formulated to nourish skin and boost radiance while gently exfoliating and removing all traces of impurities and makeup. Skin looks smoother, brighter and more refined.",
+     "category":"skincare"
+   },
+   {
+     "name": "pink",
+     "image": "images/pink.jpg",
+     "price": "$4.99",
+     "description":"The next generation of lip balms has arrived. Balm Pop enlivens lips with pure, vibrant color and contains Jojoba and Shea butter to nourish and hydrate for a full 8 hours. Available in six daring shades.",
+     "category":"makeup"
+   },
+   {
+     "name": "purple",
+     "image": "images/purple.jpg",
+     "price": "$5.99",
+     "description":"Each shade in this carefully curated collection has its own gorgeous color variation to flatter every skin tone and add beautiful dimension to the lips. Find your perfect nude!",
+     "category":"makeup"
+   },
+
+   {
+     "name": "brown",
+     "image": "images/brown.jpg",
+     "price": "$7.99",
+     "description":"Now you can have the dark-to-light ombr� trend in a glamorous and subtle approach. Superior Preference Ombr� Touch illuminates your look with just a touch of ombre, adding streaks fo light to the lengths and tips of your hair.",
+     "category":"makeup"
+   },
+   {
+     "name": "liner",
+     "image": "images/liner.jpg",
+     "price": "$7.99",
+     "description":"From your favorite nail color, now comes new Colour Riche Eyeliner. This perfect pencil glides on and blends easily to help you create your favorite eye looks from a smoldering smoky eye (smudger included!) to a well-defined cat eye.",
+     "category":"makeup"
+   },
+   {
+     "name": "curl",
+     "image": "images/curl.jpg",
+     "price": "$8.99",
+     "description":"Our lightweight primer formula accelerates your routine by cutting blow dry time while protecting hair from heat damage.",
+     "category":"hair"
+   },
+   {
+     "name": "absolute",
+     "image": "images/absolute.jpg",
+     "price": "$9.99",
+     "description":"Our high-performance, alcohol-free cream helps to soften, tame and define curls. Shapes curls with 24 hour hi-definition and helps calm frizz for perfect curls from roots to ends.",
+     "category":"hair"
+   },
+   {
+     "name": "smoother",
+     "image": "images/smoother.jpg",
+     "price": "$12.99",
+     "description":"You don�t need to spend all day in the harsh sun to get that fresh-from-the-beach look. Texture Series Beach Spray is a sea-salt infused spray that lets you create carefree, textured waves.",
+     "category":"hair"
+   },
+   {
+     "name": "studio_secrets",
+     "image": "images/studio_secrets.jpg",
+     "description":"description",
+     "price": "$8.99",
+     "category":"hair"
+
+   }
+
+  ]

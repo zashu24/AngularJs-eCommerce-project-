@@ -1,0 +1,20 @@
+body{
+	margin:0 auto;
+	padding:20px 0 20px 0;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-top:3px solid #36a3dc;
+}
+a{
+	color:#09C;
+}
+a:hover{
+	color:#000;
+}
+.well{
+	background:#09C;
+	color:#fff;
+	border:none;
+}
+.glyphicon{
+	top:0;
+}
